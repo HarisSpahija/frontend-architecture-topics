@@ -8,7 +8,7 @@ Please share this list far and wide. I'd love to get as many eyes on it as possi
 
 - State Management and Sync Strategies
 	- Pushing Data from the Server
-	- REST vs. GraphQL
+	- REST vs. GraphQL vs. gRPC
 	- Loading and Error States
 	- Caching Requests
 	- Authorization/Authentication
